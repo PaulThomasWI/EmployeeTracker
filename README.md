@@ -1,5 +1,8 @@
 # EmployeeTracker
 
+# Link to Video (screen capture)
+https://watch.screencastify.com/v/Ry4ASl40b08OJfhpLPg4
+
 # User Story
 
 AS A business owner
